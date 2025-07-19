@@ -1,2 +1,2 @@
-<img src="img/Anime Pixel Art Wallpaper Desktop.gif" alt="Screenshot" style="max-width: 70%; height: 50%;"/>
+<img src="img/Anime Pixel Art Wallpaper Desktop.gif" alt="Screenshot" style="max-width: 60%; height: 40%;"/>
 
