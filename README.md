@@ -10,7 +10,10 @@
 - Passionate about Software Engineer and AI
 - 🎮 Love playing Genshin Impact
 
-## 🚀 Tech Stack
+<details>
+  
+<summary><b>More Info</b></summary>
+  ## 🚀 Tech Stack
 
 ### 💻languages
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -50,3 +53,5 @@
 
 
 
+
+<details/>
