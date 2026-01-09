@@ -1,4 +1,4 @@
-## Hello, I'm Danang
+## Hello, I'm Danang 👋
 ---
 I’m passionate about web development and machine learning
 
