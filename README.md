@@ -6,7 +6,7 @@ I’m passionate about web development and machine learning
 | Roles | Company | Time | Location |
 | --- | --- | --- | --- |
 | Software Engineer Intern | [Rivolta Solusi Teknologi](https://rivoltatech.com/id) | Nov 2025 - Jan 2026 | Indonesia |
-| Full Stack Developer Intern | [LLDIKTI V](https://lldikti5.kemdikbud.go.id/) |  Sep 2024 - Dec 2024 | Indonesia |
+| Full Stack Developer Intern | [LLDIKTI Wilayah V](https://lldikti5.kemdikbud.go.id/) |  Sep 2024 - Dec 2024 | Indonesia |
 ### Contact
 <div>
 <a href="https://www.linkedin.com/in/dnngw/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
