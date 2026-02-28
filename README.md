@@ -1,5 +1,5 @@
-### 👋 Hi I'm Danang
-I work as a software engineer and have a strong interest in artificial intelligence.
+### Hi, I'm Danang (ฅ^•ﻌ•^ฅ)
+I work as a software engineer and have a strong interest in artificial intelligence. I'm currently deepening my understanding across frontend, backend, and infrastructure, curious about how every layer of software fits together to create something meaningful.
 
 ---
 
