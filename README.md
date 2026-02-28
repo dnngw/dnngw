@@ -11,4 +11,4 @@ I work as a software engineer and have a strong interest in artificial intellige
 ---
 
 ### 🏆 Github Stats
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dnngw&theme=react-dark&hide_border=true&area=true&grid=false&custom_title=My%20activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dnngw&theme=xcode&hide_border=true&area=true&grid=false&custom_title=My%20activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
