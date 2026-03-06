@@ -4,8 +4,3 @@ I work as a software engineer and have a strong interest in artificial intellige
 - Currently a **Software Engineer** 🧑🏻‍💻 at Rivolta Solusi Teknologi
 - Love **learning** 📖 and **exploring** new things.
 - Sometimes playing **Genshin Impact** 🎮 in my spare time.
-
----
-
-### 🏆 Github Stats
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dnngw&theme=xcode&hide_border=true&area=true&grid=false&custom_title=My%20activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
