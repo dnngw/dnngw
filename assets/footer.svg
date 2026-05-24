@@ -1,0 +1,134 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 80" width="800" height="80" shape-rendering="crispEdges" preserveAspectRatio="xMidYMid meet">
+
+  <!-- ============ LAUT PENUH ============ -->
+  <rect x="0" y="0" width="800" height="80" fill="#0d2a5c"/>
+
+  <!-- Ombak layer 1 (paling jauh / atas) -->
+  <g fill="#1e4a8a">
+    <g>
+      <rect x="0" y="8" width="800" height="4"/>
+      <rect x="20" y="6" width="40" height="2"/>
+      <rect x="120" y="6" width="40" height="2"/>
+      <rect x="220" y="6" width="40" height="2"/>
+      <rect x="320" y="6" width="40" height="2"/>
+      <rect x="420" y="6" width="40" height="2"/>
+      <rect x="520" y="6" width="40" height="2"/>
+      <rect x="620" y="6" width="40" height="2"/>
+      <rect x="720" y="6" width="40" height="2"/>
+      <animateTransform attributeName="transform" type="translate"
+                        values="0 0; -100 0; 0 0" dur="6s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <!-- Ombak layer 2 (tengah-atas) -->
+  <g fill="#2e6aa8">
+    <g>
+      <rect x="-100" y="25" width="1000" height="6"/>
+      <rect x="-60" y="21" width="60" height="4"/>
+      <rect x="80" y="21" width="60" height="4"/>
+      <rect x="220" y="21" width="60" height="4"/>
+      <rect x="360" y="21" width="60" height="4"/>
+      <rect x="500" y="21" width="60" height="4"/>
+      <rect x="640" y="21" width="60" height="4"/>
+      <rect x="780" y="21" width="60" height="4"/>
+      <animateTransform attributeName="transform" type="translate"
+                        values="0 0; 140 0; 0 0" dur="5s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <!-- Buih layer 2 -->
+  <g fill="#a8d4f0">
+    <g>
+      <rect x="20" y="24" width="3" height="3"/>
+      <rect x="160" y="24" width="3" height="3"/>
+      <rect x="300" y="24" width="3" height="3"/>
+      <rect x="440" y="24" width="3" height="3"/>
+      <rect x="580" y="24" width="3" height="3"/>
+      <rect x="720" y="24" width="3" height="3"/>
+      <animateTransform attributeName="transform" type="translate"
+                        values="0 0; 140 0; 0 0" dur="5s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <!-- Ombak layer 3 (tengah-bawah) -->
+  <g fill="#4a8acc">
+    <g>
+      <rect x="-50" y="45" width="900" height="8"/>
+      <rect x="-20" y="40" width="80" height="5"/>
+      <rect x="160" y="40" width="80" height="5"/>
+      <rect x="340" y="40" width="80" height="5"/>
+      <rect x="520" y="40" width="80" height="5"/>
+      <rect x="700" y="40" width="80" height="5"/>
+      <animateTransform attributeName="transform" type="translate"
+                        values="0 0; -180 0; 0 0" dur="4s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <!-- Buih layer 3 -->
+  <g fill="#e8f4ff">
+    <g>
+      <rect x="20" y="42" width="4" height="4"/>
+      <rect x="200" y="42" width="4" height="4"/>
+      <rect x="380" y="42" width="4" height="4"/>
+      <rect x="560" y="42" width="4" height="4"/>
+      <rect x="740" y="42" width="4" height="4"/>
+      <animateTransform attributeName="transform" type="translate"
+                        values="0 0; -180 0; 0 0" dur="4s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <!-- Ombak layer 4 (paling dekat) -->
+  <g fill="#2e6aa8">
+    <g>
+      <rect x="-100" y="58" width="1000" height="5"/>
+      <rect x="-60" y="55" width="60" height="3"/>
+      <rect x="80" y="55" width="60" height="3"/>
+      <rect x="220" y="55" width="60" height="3"/>
+      <rect x="360" y="55" width="60" height="3"/>
+      <rect x="500" y="55" width="60" height="3"/>
+      <rect x="640" y="55" width="60" height="3"/>
+      <rect x="780" y="55" width="60" height="3"/>
+      <animateTransform attributeName="transform" type="translate"
+                        values="0 0; 100 0; 0 0" dur="5.5s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <!-- Laut paling dalam -->
+  <rect x="0" y="63" width="800" height="17" fill="#0a1f47"/>
+  <g fill="#1a3a7a">
+    <rect x="0" y="63" width="800" height="2"/>
+    <rect x="40" y="68" width="20" height="2"/>
+    <rect x="140" y="68" width="20" height="2"/>
+    <rect x="260" y="68" width="20" height="2"/>
+    <rect x="380" y="68" width="20" height="2"/>
+    <rect x="500" y="68" width="20" height="2"/>
+    <rect x="620" y="68" width="20" height="2"/>
+    <rect x="720" y="68" width="20" height="2"/>
+  </g>
+  <g fill="#1a3a7a">
+    <rect x="80" y="74" width="15" height="2"/>
+    <rect x="200" y="74" width="15" height="2"/>
+    <rect x="340" y="74" width="15" height="2"/>
+    <rect x="460" y="74" width="15" height="2"/>
+    <rect x="580" y="74" width="15" height="2"/>
+    <rect x="700" y="74" width="15" height="2"/>
+  </g>
+
+  <!-- ============ BORDER PIXEL RETRO ============ -->
+  <g>
+    <rect x="0" y="0" width="800" height="3" fill="#e63946"/>
+    <rect x="0" y="3" width="800" height="1" fill="#ffe9a8"/>
+    <rect x="0" y="0" width="6" height="6" fill="#ffe9a8"/>
+    <rect x="794" y="0" width="6" height="6" fill="#ffe9a8"/>
+    <rect x="6" y="6" width="3" height="3" fill="#e63946"/>
+    <rect x="791" y="6" width="3" height="3" fill="#e63946"/>
+  </g>
+  <g>
+    <rect x="0" y="77" width="800" height="3" fill="#e63946"/>
+    <rect x="0" y="76" width="800" height="1" fill="#ffe9a8"/>
+    <rect x="0" y="74" width="6" height="6" fill="#ffe9a8"/>
+    <rect x="794" y="74" width="6" height="6" fill="#ffe9a8"/>
+    <rect x="6" y="71" width="3" height="3" fill="#e63946"/>
+    <rect x="791" y="71" width="3" height="3" fill="#e63946"/>
+  </g>
+</svg>
