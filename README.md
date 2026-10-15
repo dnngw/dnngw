@@ -1,7 +1,8 @@
-## ฅ(^ω^ฅ)
+## 🌠  ฅ(^ω^ฅ)
 
 Hello world!
 
+### 📊 Github Stats
+<hr/>
 
-## Stats
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-season-animate.svg)
