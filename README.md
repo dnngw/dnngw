@@ -13,6 +13,12 @@
 ![](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff)
 
 
+<img src="https://visitor-badge.laobi.icu/badge?page_id=dnngw&left_text=Visitors&left_color=%23000000&right_color=%23000000" />
+<a href="https://github.com/dnngw?tab=followers">
+    <img src="https://img.shields.io/github/followers/dnngw?label=Follow&style=social" />
+</a>
+
+
 
   
 </div>
