@@ -1,10 +1,24 @@
-## 🌠  ฅ(^ω^ฅ)
+<div align="center">
 
-Hello world!
+  <h2>Hello World,  ฅ(^ω^ฅ)!</h2>
 
-### 📊 Github Stats
-<hr/>
+[Website](https://dnngw.github.io) •
+[Linkedin](https://www.linkedin.com/in/dnngw/) •
+[Email](mailto:danangwijayanto507@gmail.com) 
 
+![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
+![](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff)
+![](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=ffffff)
+![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+![](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff)
+
+
+
+  
+</div>
+
+<br/>
+<br/>
 <table align="center">
   <tr>
     <td width="50%" align="center">
