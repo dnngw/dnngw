@@ -6,11 +6,11 @@
 [Linkedin](https://www.linkedin.com/in/dnngw/) •
 [Email](mailto:danangwijayanto507@gmail.com) 
 
-![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
-![](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff)
-![](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=ffffff)
-![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-![](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff)
+![](https://img.shields.io/badge/-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
+![](https://img.shields.io/badge/-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/-Java-informational?style=flat&logo=openjdk&logoColor=white&color=ED8B00)
+![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
+![](https://img.shields.io/badge/-SQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1)
 
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=dnngw&left_text=Visitors&left_color=%23000000&right_color=%23000000" />
