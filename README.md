@@ -4,7 +4,7 @@
 
 [Website](https://dnngw.github.io) •
 [Linkedin](https://www.linkedin.com/in/dnngw/) •
-[Email](mailto:danangwijayanto507@gmail.com) 
+[Email](mailto:danangwijayanto953@gmail.com) 
 
 ![](https://img.shields.io/badge/-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
 ![](https://img.shields.io/badge/-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=007ACC)
